@@ -212,6 +212,3 @@ test the file with a shorter clip or a smaller document to isolate the cause.
 MorphEra is currently at **1.0.0**. The application version is defined in
 `package.json`; packaging scripts and release documentation should keep that
 version synchronized.
-
-For repository and release instructions, see
-[`GITHUB_RELEASE_GUIDE.md`](GITHUB_RELEASE_GUIDE.md).
