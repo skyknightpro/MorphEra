@@ -1,5 +1,8 @@
 # MorphEra
 
+<img width="1180" height="780" alt="image" src="https://github.com/user-attachments/assets/7ed32877-0cfe-4a27-90df-85acc9d7c439" />
+
+
 <p align="center">
   <img src="build/icon.png" width="96" alt="MorphEra icon">
 </p>
